@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ContactTest</string>
+    <string name="cv_contact_info">Contact Info</string>
+</resources>
